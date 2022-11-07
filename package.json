@@ -1,0 +1,21 @@
+{
+  "name": "huumun-cli",
+  "version": "1.0.0",
+  "description": "Easily create a new project based on client template",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "huumun": "node index.js"
+  },
+  "keywords": ["huumun", "huumun cli"],
+  "author": "Coen Hallie",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.1.4",
+    "nanospinner": "^1.1.0"
+  }
+}
