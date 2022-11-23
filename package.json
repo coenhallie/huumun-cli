@@ -1,6 +1,6 @@
 {
   "name": "huumun-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Easily create a new project based on client template",
   "main": "index.js",
   "bin": "index.js",
@@ -8,7 +8,10 @@
   "scripts": {
     "huumun": "node index.js"
   },
-  "keywords": ["huumun", "huumun cli"],
+  "keywords": [
+    "huumun",
+    "huumun cli"
+  ],
   "author": "Coen Hallie",
   "license": "MIT",
   "dependencies": {
